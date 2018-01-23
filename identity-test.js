@@ -1,6 +1,6 @@
 const identity = require('./identity');
 
-describe('Currying Workshop', () => {
+describe('Currying Workshop identity exercise test cases', () => {
   test('The typeof argument and typeof return value of function is number', () => {
     const num = 10;
     expect(typeof (identity(num))).toBe('number');
