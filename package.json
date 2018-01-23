@@ -4,7 +4,7 @@
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "jest binary-test.js"
+    "test": "jest unary-test.js"
   },
   "repository": {
     "type": "git",

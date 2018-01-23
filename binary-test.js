@@ -10,10 +10,10 @@ describe('Currying Workshop binary exercise test cases', () => {
   test('The function takes two arguments which are -1 and 0 and return sum as -1', () => {
     expect(binary(-1, 0)).toBe(-1);
   });
-  test('The function takes no argument and returns nothing', () => {
+  test('The function takes no argument and returns  null', () => {
     expect(binary()).toBe(null);
   });
-  test('The function takes two undefined argument and returns undefined', () => {
+  test('The function takes two undefined argument and returns null', () => {
     expect(binary(undefined, undefined)).toBe(null);
   });
 
