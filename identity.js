@@ -1,4 +1,4 @@
-const identity = function (args) {
+function identity(args) {
   return args;
-};
+}
 module.exports = identity;
