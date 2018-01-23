@@ -4,7 +4,7 @@
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "jest long-delay-invocation-test.js"
+    "test": "jest call-and-apply-test.js"
   },
   "repository": {
     "type": "git",
