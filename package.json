@@ -4,7 +4,7 @@
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "jest call-and-apply-test.js"
+    "test": "jest currying-test.js"
   },
   "repository": {
     "type": "git",
