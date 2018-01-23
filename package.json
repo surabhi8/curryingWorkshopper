@@ -1,0 +1,25 @@
+{
+  "name": "currying-workshopper",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "jest identity-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surabhi8/curryingWorkshopper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surabhi8/curryingWorkshopper/issues"
+  },
+  "homepage": "https://github.com/surabhi8/curryingWorkshopper#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^22.1.4"
+  }
+}
